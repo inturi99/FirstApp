@@ -1,0 +1,10 @@
+E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+E:\EFCodeFirst\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+E:\EFCodeFirst\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
