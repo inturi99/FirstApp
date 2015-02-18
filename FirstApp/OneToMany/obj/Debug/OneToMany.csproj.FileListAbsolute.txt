@@ -1,0 +1,12 @@
+E:\EFCodeFirst\FirstApp\OneToMany\bin\Debug\OneToMany.exe.config
+E:\EFCodeFirst\FirstApp\OneToMany\bin\Debug\OneToMany.exe
+E:\EFCodeFirst\FirstApp\OneToMany\bin\Debug\OneToMany.pdb
+E:\EFCodeFirst\FirstApp\OneToMany\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\OneToMany\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\OneToMany\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\OneToMany\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\OneToMany\obj\Debug\OneToMany.csprojResolveAssemblyReference.cache
+E:\EFCodeFirst\FirstApp\OneToMany\obj\Debug\OneToMany.Migrations.IntialDB.resources
+E:\EFCodeFirst\FirstApp\OneToMany\obj\Debug\OneToMany.csproj.GenerateResource.Cache
+E:\EFCodeFirst\FirstApp\OneToMany\obj\Debug\OneToMany.exe
+E:\EFCodeFirst\FirstApp\OneToMany\obj\Debug\OneToMany.pdb

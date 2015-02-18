@@ -1,0 +1,16 @@
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\OneToOne.exe.config
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\OneToOne.exe
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\OneToOne.pdb
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\EFCodeFirst\FirstApp\OneToOne\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EFCodeFirst\FirstApp\OneToOne\obj\Debug\OneToOne.Migrations.IntialDatabase.resources
+E:\EFCodeFirst\FirstApp\OneToOne\obj\Debug\OneToOne.csproj.GenerateResource.Cache
+E:\EFCodeFirst\FirstApp\OneToOne\obj\Debug\OneToOne.exe
+E:\EFCodeFirst\FirstApp\OneToOne\obj\Debug\OneToOne.pdb
+E:\EFCodeFirst\FirstApp\OneToOne\obj\Debug\OneToOne.csprojResolveAssemblyReference.cache

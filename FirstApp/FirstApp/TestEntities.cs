@@ -10,7 +10,7 @@ namespace FirstApp
     public class TestEntities : DbContext
     {
         public TestEntities()
-            : base(@"Data Source=TECHNO-KRISHNA\SQLEXPRESS;Initial Catalog=Test;User ID=sa;Password=Design_20")
+            : base(@"Data Source=TECHNO-KRISHNA\SQLEXPRESS;Initial Catalog=EFCF;User ID=sa;Password=Design_20")
         {
 
         }

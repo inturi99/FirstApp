@@ -1,0 +1,12 @@
+E:\EFCodeFirst\FirstApp\FisrtProject\bin\Debug\FisrtProject.exe.config
+E:\EFCodeFirst\FirstApp\FisrtProject\bin\Debug\FisrtProject.exe
+E:\EFCodeFirst\FirstApp\FisrtProject\bin\Debug\FisrtProject.pdb
+E:\EFCodeFirst\FirstApp\FisrtProject\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\FisrtProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\FisrtProject\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\FisrtProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\FisrtProject\obj\Debug\FisrtProject.csprojResolveAssemblyReference.cache
+E:\EFCodeFirst\FirstApp\FisrtProject\obj\Debug\FisrtProject.Migrations.initialization.resources
+E:\EFCodeFirst\FirstApp\FisrtProject\obj\Debug\FisrtProject.csproj.GenerateResource.Cache
+E:\EFCodeFirst\FirstApp\FisrtProject\obj\Debug\FisrtProject.exe
+E:\EFCodeFirst\FirstApp\FisrtProject\obj\Debug\FisrtProject.pdb

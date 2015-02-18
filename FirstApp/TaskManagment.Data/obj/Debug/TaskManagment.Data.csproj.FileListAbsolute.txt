@@ -1,0 +1,15 @@
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\bin\Debug\TaskManagment.Data.exe.config
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\bin\Debug\TaskManagment.Data.exe
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\bin\Debug\TaskManagment.Data.pdb
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\bin\Debug\TaskManagment.Model.exe
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\bin\Debug\TaskManagment.Model.pdb
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\obj\Debug\TaskManagment.Data.csprojResolveAssemblyReference.cache
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\obj\Debug\TaskManagment.Data.Migrations.IgnoreAddress.resources
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\obj\Debug\TaskManagment.Data.Migrations.RemoveUser.resources
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\obj\Debug\TaskManagment.Data.csproj.GenerateResource.Cache
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\obj\Debug\TaskManagment.Data.exe
+E:\EFCodeFirst\FirstApp\TaskManagment.Data\obj\Debug\TaskManagment.Data.pdb

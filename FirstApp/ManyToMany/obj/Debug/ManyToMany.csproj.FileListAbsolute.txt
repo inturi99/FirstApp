@@ -1,0 +1,10 @@
+E:\EFCodeFirst\FirstApp\ManyToMany\bin\Debug\ManyToMany.exe.config
+E:\EFCodeFirst\FirstApp\ManyToMany\bin\Debug\ManyToMany.exe
+E:\EFCodeFirst\FirstApp\ManyToMany\bin\Debug\ManyToMany.pdb
+E:\EFCodeFirst\FirstApp\ManyToMany\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\ManyToMany\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\ManyToMany\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\ManyToMany\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\ManyToMany\obj\Debug\ManyToMany.csprojResolveAssemblyReference.cache
+E:\EFCodeFirst\FirstApp\ManyToMany\obj\Debug\ManyToMany.exe
+E:\EFCodeFirst\FirstApp\ManyToMany\obj\Debug\ManyToMany.pdb

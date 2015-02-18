@@ -1,0 +1,15 @@
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\TaskManager.exe.config
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\TaskManager.exe
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\TaskManager.pdb
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\EFCodeFirst\FirstApp\TaskManager\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EFCodeFirst\FirstApp\TaskManager\obj\Debug\TaskManager.exe
+E:\EFCodeFirst\FirstApp\TaskManager\obj\Debug\TaskManager.pdb
+E:\EFCodeFirst\FirstApp\TaskManager\obj\Debug\TaskManager.Migrations.InitialCreation.resources
+E:\EFCodeFirst\FirstApp\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+E:\EFCodeFirst\FirstApp\TaskManagment.Model\bin\Debug\TaskManagment.Model.exe.config
+E:\EFCodeFirst\FirstApp\TaskManagment.Model\bin\Debug\TaskManagment.Model.exe
+E:\EFCodeFirst\FirstApp\TaskManagment.Model\bin\Debug\TaskManagment.Model.pdb
+E:\EFCodeFirst\FirstApp\TaskManagment.Model\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\TaskManagment.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\TaskManagment.Model\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\TaskManagment.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\TaskManagment.Model\obj\Debug\TaskManagment.Model.csprojResolveAssemblyReference.cache
+E:\EFCodeFirst\FirstApp\TaskManagment.Model\obj\Debug\TaskManagment.Model.exe
+E:\EFCodeFirst\FirstApp\TaskManagment.Model\obj\Debug\TaskManagment.Model.pdb

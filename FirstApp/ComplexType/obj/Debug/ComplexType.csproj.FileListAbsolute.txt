@@ -1,0 +1,10 @@
+E:\EFCodeFirst\FirstApp\ComplexType\bin\Debug\ComplexType.exe.config
+E:\EFCodeFirst\FirstApp\ComplexType\bin\Debug\ComplexType.exe
+E:\EFCodeFirst\FirstApp\ComplexType\bin\Debug\ComplexType.pdb
+E:\EFCodeFirst\FirstApp\ComplexType\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\ComplexType\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\ComplexType\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\ComplexType\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\ComplexType\obj\Debug\ComplexType.exe
+E:\EFCodeFirst\FirstApp\ComplexType\obj\Debug\ComplexType.pdb
+E:\EFCodeFirst\FirstApp\ComplexType\obj\Debug\ComplexType.csprojResolveAssemblyReference.cache

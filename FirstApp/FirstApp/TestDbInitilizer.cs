@@ -19,17 +19,15 @@ namespace FirstApp
 
             context.States.Add(new State 
             { 
-                CountryID=1,
+                CountryId=1,
                 Name="AndhraPradesh"
 
             });
             context.SaveChanges();
-
             context.Employies.Add(new Employee { 
             employeeId="VTI-001",
             employeeName="Srinivas.G",
-            CountryID=1,
-            StateID=1,
+            StateId=1,
             salary=38000,
             address="Technoidentity"
             });

@@ -5,6 +5,9 @@ E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\EntityFramework.dll
 E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\EntityFramework.SqlServer.dll
 E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\EntityFramework.xml
 E:\EFCodeFirst\FirstApp\FirstApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+E:\EFCodeFirst\FirstApp\FirstApp\obj\Debug\FirstApp.Migrations.Intiali.resources
+E:\EFCodeFirst\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
 E:\EFCodeFirst\FirstApp\FirstApp\obj\Debug\FirstApp.exe
 E:\EFCodeFirst\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
-E:\EFCodeFirst\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+E:\EFCodeFirst\FirstApp\FirstApp\obj\Debug\FirstApp.Migrations.NameIsUniqueInCountry.resources

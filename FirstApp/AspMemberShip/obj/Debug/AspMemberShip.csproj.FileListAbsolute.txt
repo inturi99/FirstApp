@@ -1,0 +1,17 @@
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\AspMemberShip.exe.config
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\AspMemberShip.exe
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\AspMemberShip.pdb
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\EFCodeFirst\FirstApp\AspMemberShip\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EFCodeFirst\FirstApp\AspMemberShip\obj\Debug\AspMemberShip.csprojResolveAssemblyReference.cache
+E:\EFCodeFirst\FirstApp\AspMemberShip\obj\Debug\AspMemberShip.Migrations.AspNetMemberShipTables.resources
+E:\EFCodeFirst\FirstApp\AspMemberShip\obj\Debug\AspMemberShip.Migrations.RemoveMyUserInfo.resources
+E:\EFCodeFirst\FirstApp\AspMemberShip\obj\Debug\AspMemberShip.csproj.GenerateResource.Cache
+E:\EFCodeFirst\FirstApp\AspMemberShip\obj\Debug\AspMemberShip.exe
+E:\EFCodeFirst\FirstApp\AspMemberShip\obj\Debug\AspMemberShip.pdb

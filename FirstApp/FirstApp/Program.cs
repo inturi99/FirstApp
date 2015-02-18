@@ -10,10 +10,9 @@ namespace FirstApp
     {
         static void Main(string[] args)
         {
-            var context = new TestEntities();
-            var countries = context.Countries;
-            var states = context.States;
-            var Employies = context.Employies;
+            int i=10;
+            int j = 2;
+           Console.Write(Math.power(i/j));
         }
     }
 }

@@ -1,0 +1,12 @@
+E:\EFCodeFirst\FirstApp\SecondProject\bin\Debug\SecondProject.exe.config
+E:\EFCodeFirst\FirstApp\SecondProject\bin\Debug\SecondProject.exe
+E:\EFCodeFirst\FirstApp\SecondProject\bin\Debug\SecondProject.pdb
+E:\EFCodeFirst\FirstApp\SecondProject\bin\Debug\EntityFramework.dll
+E:\EFCodeFirst\FirstApp\SecondProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFCodeFirst\FirstApp\SecondProject\bin\Debug\EntityFramework.xml
+E:\EFCodeFirst\FirstApp\SecondProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFCodeFirst\FirstApp\SecondProject\obj\Debug\SecondProject.Migrations.Intialization.resources
+E:\EFCodeFirst\FirstApp\SecondProject\obj\Debug\SecondProject.csproj.GenerateResource.Cache
+E:\EFCodeFirst\FirstApp\SecondProject\obj\Debug\SecondProject.exe
+E:\EFCodeFirst\FirstApp\SecondProject\obj\Debug\SecondProject.pdb
+E:\EFCodeFirst\FirstApp\SecondProject\obj\Debug\SecondProject.csprojResolveAssemblyReference.cache
